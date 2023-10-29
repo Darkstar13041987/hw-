@@ -1,7 +1,7 @@
 ﻿
-int numberA = ReadInt("Введите число: ");
-int numberB = ReadInt("Введите степень: ");
-ToDegree(numberA, numberB);
+int numA = ReadInt("Введите число: ");
+int numB = ReadInt("Введите степень: ");
+ToDegree(numA, numB);
 
 
 // Функция возведения в степень
